@@ -1,0 +1,148 @@
+<svg viewBox="-52 -52 1619 1056" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <defs>
+          <rect id="path-1" x="0" y="0" width="335" height="447"></rect>
+          <rect id="path-2" x="0" y="0" width="335" height="447"></rect>
+          <rect id="path-3" x="0" y="0" width="335" height="447"></rect>
+          <rect id="path-4" x="0" y="0" width="335" height="447"></rect>
+          <rect id="path-5" x="0" y="0" width="335" height="447"></rect>
+          <rect id="path-6" x="0" y="0" width="335" height="447"></rect>
+          <rect id="path-7" x="0" y="0" width="335" height="447"></rect>
+          <rect id="path-8" x="0" y="0" width="335" height="447"></rect>
+      </defs>
+      <g id="Palette" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+          <g id="sketch-flat-palette" transform="translate(-52.000000, -52.000000)">
+              <g id="Group" transform="translate(52.000000, 52.000000)">
+                  <g id="color">
+                      <g id="bg">
+                          <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                          <rect stroke="#C1C1C1" stroke-width="1" x="0.5" y="0.5" width="334" height="446"></rect>
+                      </g>
+                      <text id="color-label" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold" line-spacing="18" letter-spacing="0.349999994">
+                          <tspan x="23" y="265" fill="#2E2E2E">Gun Powder</tspan>
+                          <tspan x="23" y="289.246094" font-size="14" fill="#2E2E2E"> Light Shade 02</tspan>
+                          <tspan x="23" y="307.246094" font-size="14" fill="#2E2E2E"></tspan>
+                          <tspan x="23" y="325.246094" font-size="14" line-spacing="15" fill="#2E2E2E"></tspan>
+                          <tspan x="23" y="340.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">#696B83</tspan>
+                          <tspan x="23" y="376.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">rgb(105, 107, 131)</tspan>
+                          <tspan x="23" y="412.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">Pantone Cool Gray 9 C</tspan>
+                      </text>
+                      <rect fill="#696B83" x="0" y="0" width="335" height="215"></rect>
+                  </g>
+                  <g id="color-copy" transform="translate(393.000000, 0.000000)">
+                  <g id="bg">
+                          <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                          <rect stroke="#C1C1C1" stroke-width="1" x="0.5" y="0.5" width="334" height="446"></rect>
+                      </g>
+                      <text id="color-label" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold" line-spacing="18" letter-spacing="0.349999994">
+                          <tspan x="23" y="265" fill="#2E2E2E">Gun Powder</tspan>
+                          <tspan x="23" y="289.246094" font-size="14" fill="#2E2E2E"> Light Shade 01</tspan>
+                          <tspan x="23" y="307.246094" font-size="14" fill="#2E2E2E"></tspan>
+                          <tspan x="23" y="325.246094" font-size="14" line-spacing="15" fill="#2E2E2E"></tspan>
+                          <tspan x="23" y="340.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">#505167</tspan>
+                          <tspan x="23" y="376.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">rgb(80, 81, 103)</tspan>
+                          <tspan x="23" y="412.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">Pantone 7666 C</tspan>
+                      </text>
+                      <rect fill="#505167" x="0" y="0" width="335" height="215"></rect>
+                  </g>
+                  <g id="color-copy-2" transform="translate(787.000000, 0.000000)">
+                  <g id="bg">
+                  <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                  <rect stroke="#C1C1C1" stroke-width="1" x="0.5" y="0.5" width="334" height="446"></rect>
+              </g>
+              <text id="color-label" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold" line-spacing="18" letter-spacing="0.349999994">
+                  <tspan x="23" y="265" fill="#2E2E2E">Gun Powder</tspan>
+                  <tspan x="23" y="289.246094" font-size="14" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="307.246094" font-size="14" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="325.246094" font-size="14" line-spacing="15" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="340.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">#3D3E52</tspan>
+                  <tspan x="23" y="376.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">rgb(61, 62, 82)</tspan>
+                  <tspan x="23" y="412.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">Pantone 432 C</tspan>
+              </text>
+              <rect fill="#3D3E52" x="0" y="0" width="335" height="215"></rect>
+                  </g>
+                  <g id="color-copy-3" transform="translate(1180.000000, 0.000000)">
+                  <g id="bg">
+                  <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                  <rect stroke="#C1C1C1" stroke-width="1" x="0.5" y="0.5" width="334" height="446"></rect>
+              </g>
+              <text id="color-label" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold" line-spacing="18" letter-spacing="0.349999994">
+                  <tspan x="23" y="265" fill="#2E2E2E">Gun Powder</tspan>
+                  <tspan x="23" y="289.246094" font-size="14" fill="#2E2E2E"> Dark Shade 01</tspan>
+                  <tspan x="23" y="307.246094" font-size="14" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="325.246094" font-size="14" line-spacing="15" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="340.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">#313245</tspan>
+                  <tspan x="23" y="376.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">rgb(49, 50, 69)</tspan>
+                  <tspan x="23" y="412.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">Pantone 7546 C</tspan>
+              </text>
+              <rect fill="#313245" x="0" y="0" width="335" height="215"></rect>
+                  </g>
+              </g>
+              <g id="Group-2" transform="translate(52.000000, 557.000000)">
+                  <g id="color-copy-4">
+                  <g id="bg">
+                  <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                  <rect stroke="#C1C1C1" stroke-width="1" x="0.5" y="0.5" width="334" height="446"></rect>
+              </g>
+              <text id="color-label" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold" line-spacing="18" letter-spacing="0.349999994">
+                  <tspan x="23" y="265" fill="#2E2E2E">Bondi Blue</tspan>
+                  <tspan x="23" y="289.246094" font-size="14" fill="#2E2E2E"> Light Shade 01</tspan>
+                  <tspan x="23" y="307.246094" font-size="14" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="325.246094" font-size="14" line-spacing="15" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="340.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">#5CC0D9</tspan>
+                  <tspan x="23" y="376.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">rgb(92, 192, 217)</tspan>
+                  <tspan x="23" y="412.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">Pantone 2985 C</tspan>
+              </text>
+              <rect fill="#5CC0D9" x="0" y="0" width="335" height="215"></rect>
+                  </g>
+                  <g id="color-copy-5" transform="translate(393.000000, 0.000000)">
+                  <g id="bg">
+                  <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                  <rect stroke="#C1C1C1" stroke-width="1" x="0.5" y="0.5" width="334" height="446"></rect>
+              </g>
+              <text id="color-label" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold" line-spacing="18" letter-spacing="0.349999994">
+                  <tspan x="23" y="265" fill="#2E2E2E">Bondi Blue</tspan>
+                  <tspan x="23" y="289.246094" font-size="14" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="307.246094" font-size="14" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="325.246094" font-size="14" line-spacing="15" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="340.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">#369EBB</tspan>
+                  <tspan x="23" y="376.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">rgb(54, 158, 187)</tspan>
+                  <tspan x="23" y="412.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">Pantone 7459 C</tspan>
+              </text>
+              <rect fill="#369EBB" x="0" y="0" width="335" height="215"></rect>
+                  </g>
+                  <g id="color-copy-6" transform="translate(787.000000, 0.000000)">
+                  <g id="bg">
+                  <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                  <rect stroke="#C1C1C1" stroke-width="1" x="0.5" y="0.5" width="334" height="446"></rect>
+              </g>
+              <text id="color-label" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold" line-spacing="18" letter-spacing="0.349999994">
+                  <tspan x="23" y="265" fill="#2E2E2E">Bondi Blue</tspan>
+                  <tspan x="23" y="289.246094" font-size="14" fill="#2E2E2E"> Dark Shade 01</tspan>
+                  <tspan x="23" y="307.246094" font-size="14" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="325.246094" font-size="14" line-spacing="15" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="340.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">#0F7FA2</tspan>
+                  <tspan x="23" y="376.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">rgb(15, 127, 162)</tspan>
+                  <tspan x="23" y="412.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">Pantone 314 C</tspan>
+              </text>
+              <rect fill="#0F7FA2" x="0" y="0" width="335" height="215"></rect>
+                  </g>
+                  <g id="color-copy-7" transform="translate(1180.000000, 0.000000)">
+                  <g id="bg">
+                  <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                  <rect stroke="#C1C1C1" stroke-width="1" x="0.5" y="0.5" width="334" height="446"></rect>
+              </g>
+              <text id="color-label" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold" line-spacing="18" letter-spacing="0.349999994">
+                  <tspan x="23" y="265" fill="#2E2E2E">Bondi Blue</tspan>
+                  <tspan x="23" y="289.246094" font-size="14" fill="#2E2E2E"> Dark Shade 02</tspan>
+                  <tspan x="23" y="307.246094" font-size="14" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="325.246094" font-size="14" line-spacing="15" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="340.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">#096989</tspan>
+                  <tspan x="23" y="376.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">rgb(9, 105, 137)</tspan>
+                  <tspan x="23" y="412.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">Pantone 7706 C</tspan>
+              </text>
+              <rect fill="#096989" x="0" y="0" width="335" height="215"></rect>
+                  </g>
+              </g>
+          </g>
+      </g>
+  </svg>
